@@ -15,4 +15,4 @@ pip install -r requirements.txt
 ```
 
 ## Contributer
-I cowork this web crawler code with Irene Tsai
+> Chris Hsu, Irene Tsai
