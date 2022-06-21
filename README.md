@@ -14,9 +14,9 @@ pip install -r requirements.txt
 ```
 ## Run
 
-Please run 
+Please run the below code, and it will generate the csv file.
 ```
-pip install -r requirements.txt
+web_crawler.ipynb
 ```
 
 ## Contributer
