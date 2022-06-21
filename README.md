@@ -15,4 +15,4 @@ pip install -r requirements.txt
 ```
 
 ## Contributer
-> Chris Hsu, Irene Tsai
+> Author: Chris Hsu, Irene Tsai
