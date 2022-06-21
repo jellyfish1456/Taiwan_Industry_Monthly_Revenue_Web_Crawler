@@ -2,9 +2,8 @@
 
 ## Overview
 This is a web crawler program to get information of Taiwan industry monthly revenue of listed companies. My goal is to build up a csv file to help me to analyze the financial market from the data.
-## Source
 
-Link: [台灣上市公司111年1月份(累計與當月)營業收入統計表](https://mops.twse.com.tw/nas/t21/sii/t21sc03_111_1_0.html)
+Source link: [台灣上市公司111年1月份(累計與當月)營業收入統計表](https://mops.twse.com.tw/nas/t21/sii/t21sc03_111_1_0.html)
 
 ## Getting started & software prerequisites
 
