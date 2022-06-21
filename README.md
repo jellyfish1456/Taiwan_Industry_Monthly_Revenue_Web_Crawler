@@ -12,6 +12,12 @@ If you want to run the code on your computer, you're welcome to clone this repos
 ```
 pip install -r requirements.txt
 ```
+## Run
+
+Please run 
+```
+pip install -r requirements.txt
+```
 
 ## Contributer
 > Author: Chris Hsu, Irene Tsai
